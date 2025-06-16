@@ -3,6 +3,8 @@
 # Step: Add guessing game loop with input validation
 # feat: add username input and greeting
 # feat: add guessing game loop with input validation
+# feat: update database with games played and best game stats
+# feat: update database with games played and best game stats
 
 
 
