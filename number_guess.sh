@@ -2,6 +2,7 @@
 # Step: Add username input and greeting
 # Step: Add guessing game loop with input validation
 # feat: add username input and greeting
+# feat: add guessing game loop with input validation
 
 
 
