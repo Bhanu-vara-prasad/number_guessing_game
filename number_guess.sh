@@ -1,5 +1,7 @@
 #!/bin/bash
 # Step: Add username input and greeting
+# Step: Add guessing game loop with input validation
+
 
 PSQL="psql --username=freecodecamp --dbname=number_guess -t --no-align -c"
 
